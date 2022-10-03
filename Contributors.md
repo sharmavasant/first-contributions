@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
+[Vasant Kumar Sharma](https://github.com/sharmavasant)
 - [Evander Siregar](https://github.com/egocider)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
